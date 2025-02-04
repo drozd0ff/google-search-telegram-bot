@@ -4,3 +4,4 @@
 !misc/*
 # Ignore __pycache__ under src/
 __pycache__
+config.json
